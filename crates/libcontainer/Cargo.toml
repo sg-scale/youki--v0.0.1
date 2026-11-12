@@ -30,4 +30,4 @@ serde_json = "1.0"
 [dev-dependencies]
 oci-spec = { git = "https://github.com/containers/oci-spec-rs",  rev = "12dcd858543db0e7bfb1ef053d1b748f2fda74ee", features = ["proptests"] }
 quickcheck = "1"
-serial_test = "0.5.1"
+serial_test = "3.0.0"
